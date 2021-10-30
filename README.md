@@ -1,10 +1,10 @@
 # RL-BATT-DDPG
 
-This is the application of reinforcement learning (RL) for battery fast-charging in the advanced battery management system (BMS). Using deep deterministic policy gradient (DDPG) algorithm, the RL agent is able to achieve fast-charging control strategy compared to existing model-based control strategies. In this repo, the RL algorithm is applied to the publicly available Lithium cobalt battery (LiCoO2) battery chemistry. Especially, both state-feedback and output-feedback learning policy can be found in the sub-folders. 
+This is the application of reinforcement learning (RL) for battery fast-charging in the advanced battery management system (BMS). Using deep deterministic policy gradient (DDPG) algorithm, the RL agent is able to achieve fast-charging control strategy compared to existing model-based control strategies. In this repo, the RL results are reproduced by using the publicly available Lithium cobalt battery (LiCoO2) battery chemistry. Specifically, we present the RL agent in terms of state-feedback and output-feedback learning policy, which can be found in the sub-folders. 
 
 ## Requirements
 
-* Python 3 (it might work with Python 2, but I didn't test it)
+* Python 3.7 (it might work with Python 2, but I didn't test it)
 * [PyTorch 1.2.0](http://pytorch.org/)
 * [OpenAI baselines](https://github.com/openai/baselines)
 
@@ -28,7 +28,9 @@ jupyter notebook
 
 ```
 
-Figures and Results are saved in "figures" in the repository. The figures in the manuscript are different from repository results because the battery model is adopted from company-owned battery parameters.
+* Launch the notebook file (.ipynb) in the sub-folder for deeper analysis.
+
+Figures and Results are saved in "figures" in each subfolders of the repository. The figures in the manuscript are different from repository results because the battery model is adopted from company-owned battery parameters.
 
 ## Results
 
@@ -64,7 +66,9 @@ Figures and Results are saved in "figures" in the repository. The figures in the
 
 ## Bibtex
 
-## Contacts
+To be updated.
+
+## Contact
 
 Saehong Park: sspark@berkeley.edu
 
