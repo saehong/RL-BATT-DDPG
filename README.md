@@ -68,9 +68,11 @@ Figures and Results are saved in "figures" in each subfolders of the repository.
 
 To be updated.
 
-## Contact
+## Contacts
 
 Saehong Park: sspark@berkeley.edu
+
+Andrea Pozzi: andrea.pozzi03@universitadipavia.it
 
 
 
