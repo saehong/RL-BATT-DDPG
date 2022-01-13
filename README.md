@@ -66,6 +66,7 @@ Figures and Results are saved in "figures" in each subfolders of the repository.
 
 ## Bibtex
 
+```bash
 @article{park2022deep,
   title={A Deep Reinforcement Learning Framework for Fast Charging of Li-ion Batteries},
   author={Park, Saehong and Pozzi, Andrea and Whitmeyer, Michael and Perez, Hector and Kandel, Aaron and Kim, Geumbee and Choi, Yohwan and Joe, Won Tae and Raimondo, Davide M and Moura, Scott},
@@ -73,6 +74,7 @@ Figures and Results are saved in "figures" in each subfolders of the repository.
   year={2022},
   publisher={IEEE}
 }
+```
 
 ## Contacts / Collaborators
 
